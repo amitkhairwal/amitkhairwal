@@ -1,6 +1,6 @@
 # Hi there, I'm Amit Kumar! 👋
 
-I am a passionate Full Stack Developer based in [Your Location]. I love building web applications and exploring new technologies. Here's a bit about me:
+I am a passionate Full Stack Developer. I love building web applications and exploring new technologies. Here's a bit about me:
 
 - 🌐 Website: [Portfolio](https://amit-k-portfolio.netlify.app/)
 - 📧 Email: [amitkhairwal264@gmail.com](mailto:amitkhairwal264@gmail.com)
